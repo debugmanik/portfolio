@@ -1,65 +1,55 @@
-# My Portfolio Website - Overview 🚀
+🚀 Manik Jain — Full Stack Developer
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+Building scalable, high-performance web applications with modern technologies.
 
----
+## 📸 Preview
 
-## ⚠️ Usage Notice
+<p align="center">
+  <img src="public/screenshots/home.png" width="800"/>
+</p>
 
-This project is shared for learning purposes only.
+🌐 Live Demo
 
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
+👉 https://portfolio-ojcl.vercel.app/
 
-If you use parts of the code, you must provide proper credit linking back to the original repository.
+⸻
 
-Build your own version — don’t just copy.
+🧠 About This Project
 
-— Moncy Yohannan
+This is my personal portfolio website where I showcase my projects, technical skills, and development experience as a Full Stack Developer.
 
----
+I focus on:
+	•	⚡ Performance & scalability
+	•	🎨 Clean UI/UX
+	•	🔗 End-to-end development
 
-## 🛠️ Instructions
+⸻
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+✨ Features
+	•	⚡ Fast and optimized performance (Vite)
+	•	🎨 Modern and clean UI
+	•	📱 Fully responsive design
+	•	🎬 Smooth animations (GSAP)
+	•	🌌 Interactive 3D visuals (Three.js)
+	•	🔗 Project showcase with real-world applications
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+⸻
 
----
+🛠️ Tech Stack
 
-## ⚙️ Tech Stack
+Frontend
+	•	React
+	•	TypeScript
+	•	GSAP
+	•	Three.js
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+Backend
+	•	Node.js
+	•	Express
 
----
-
-## 🎨 Assets Usage
-
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
-
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
-
-## 📄 License
-
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
-
-See the LICENSE file for full details
-
+Other Tools
+	•	Git & GitHub
+	•	Vercel (Deployment)
+📬 Contact
+	•	💼 LinkedIn: https://www.linkedin.com/in/manik-jain-634597381/
+	•	📧 Email: manikjain28july@gmail.com
